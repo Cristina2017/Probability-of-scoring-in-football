@@ -1,4 +1,3 @@
-![Capture.JPG](attachment:Capture.JPG)
 
 The aim of this project is to measure the probability of scoring a goal and the probability of the ball to be intercepted in a football match.
 
